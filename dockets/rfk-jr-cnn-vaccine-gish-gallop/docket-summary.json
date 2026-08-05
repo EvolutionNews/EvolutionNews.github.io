@@ -19,7 +19,9 @@
     "claims": 12,
     "primary_evidence_sources": 20,
     "talkorigins_mappings": 0,
-    "open_access_checks": 0
+    "open_access_checks": 4,
+    "citation_download": "citations.bib",
+    "citation_metadata": "DOI links, abstract views, BibTeX records, and open-access links are included where verified; non-DOI web sources retain their authoritative URLs."
   },
   "claims": [
     {
@@ -191,9 +193,14 @@
       "role": "coverage_and_outbreak_context"
     },
     {
-      "title": "CDC: COVID-19 breakthrough surveillance",
-      "url": "https://www.cdc.gov/mmwr/volumes/70/wr/mm7037e1.htm",
-      "role": "COVID_vaccine_effectiveness"
+      "title": "CDC MMWR: vaccine effectiveness against ventilation and death",
+      "url": "https://www.cdc.gov/mmwr/volumes/71/wr/mm7112e1.htm",
+      "role": "COVID_vaccine_effectiveness",
+      "doi": "10.15585/mmwr.mm7112e1",
+      "doi_url": "https://doi.org/10.15585/mmwr.mm7112e1",
+      "abstract_url": "https://www.cdc.gov/mmwr/volumes/71/wr/mm7112e1.htm",
+      "bibtex_key": "tenforde2022covid",
+      "open_access_url": "https://www.cdc.gov/mmwr/volumes/71/wr/mm7112e1.htm"
     },
     {
       "title": "Our World in Data: COVID-19 deaths",
@@ -223,7 +230,12 @@
     {
       "title": "NIH: randomized trial evidence for remdesivir",
       "url": "https://www.nih.gov/news-events/nih-research-matters/final-report-confirms-remdesivir-benefits-covid-19",
-      "role": "treatment-evidence-example"
+      "role": "treatment-evidence-example",
+      "doi": "10.1056/NEJMoa2007764",
+      "doi_url": "https://doi.org/10.1056/NEJMoa2007764",
+      "abstract_url": "https://pubmed.ncbi.nlm.nih.gov/32445440/",
+      "bibtex_key": "beigel2020remdesivir",
+      "open_access_url": "https://www.nih.gov/news-events/nih-research-matters/final-report-confirms-remdesivir-benefits-covid-19"
     },
     {
       "title": "Congressional Research Service: emergency authorities",
@@ -243,12 +255,22 @@
     {
       "title": "PubMed: umbrella review of maternal acetaminophen and autism evidence",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41207796/",
-      "role": "acetaminophen-autism-evidence-synthesis"
+      "role": "acetaminophen-autism-evidence-synthesis",
+      "doi": "10.1136/bmj-2025-088141",
+      "doi_url": "https://doi.org/10.1136/bmj-2025-088141",
+      "abstract_url": "https://pubmed.ncbi.nlm.nih.gov/41207796/",
+      "bibtex_key": "sheikh2025maternal",
+      "open_access_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12838471/"
     },
     {
       "title": "PubMed: systematic review and meta-analysis of prenatal paracetamol exposure",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42500177/",
-      "role": "acetaminophen-autism-evidence-synthesis"
+      "role": "acetaminophen-autism-evidence-synthesis",
+      "doi": "10.61622/rbgo/2026rbgo108",
+      "doi_url": "https://doi.org/10.61622/rbgo/2026rbgo108",
+      "abstract_url": "https://pubmed.ncbi.nlm.nih.gov/42500177/",
+      "bibtex_key": "oliveira2026prenatal",
+      "open_access_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13399481/"
     },
     {
       "title": "NICHD: what causes autism",

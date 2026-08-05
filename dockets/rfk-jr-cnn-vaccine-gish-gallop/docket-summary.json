@@ -1,0 +1,147 @@
+{
+  "schema": "evolutionnews.public_evidence_docket.v1",
+  "id": "rfk-jr-cnn-vaccine-gish-gallop",
+  "title": "RFK Jr. CNN interview: vaccines, COVID, and pandemic preparation",
+  "source": {
+    "site": "CNN State of the Union",
+    "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01",
+    "source_type": "television_interview",
+    "interview_date": "2026-08-02",
+    "participants": ["Dana Bash", "Robert F. Kennedy Jr."]
+  },
+  "reported_incident": {
+    "site": "HuffPost",
+    "url": "https://www.huffpost.com/entry/rfk-jr-gish-gallop-cnn-interview_l_6a7099d0e4b07f032143c9e4"
+  },
+  "review_state": "public_summary_needs_editor_review",
+  "publication_boundary": "This public artifact includes concise claim summaries, source links, and evidence notes. It does not publish the full broadcast transcript, the diarist reconstruction, private captures, or review caches.",
+  "counts": {
+    "claims": 12,
+    "primary_evidence_sources": 7,
+    "talkorigins_mappings": 0,
+    "open_access_checks": 0
+  },
+  "claims": [
+    {
+      "id": "rfk-cnn-001",
+      "type": "public_health_claim",
+      "summary": "Kennedy says the United States had the highest COVID death rate and attributes the outcome chiefly to Fauci and lockdowns.",
+      "finding": "overstated_and_causally_misassigned",
+      "evidence_note": "The comparison depends on date, definition, reporting, and whether excess mortality is used. The interview does not establish that Fauci directed state lockdowns or that one actor explains the national outcome."
+    },
+    {
+      "id": "rfk-cnn-002",
+      "type": "origin_claim",
+      "summary": "Kennedy says COVID, RSV, and almost certainly Lyme disease came from gain-of-function research.",
+      "finding": "unsupported_as_stated",
+      "evidence_note": "No evidence is supplied for the RSV or Lyme assertions. An unresolved COVID-origin hypothesis does not establish the origins of unrelated diseases."
+    },
+    {
+      "id": "rfk-cnn-003",
+      "type": "treatment_claim",
+      "summary": "Kennedy says disregarded frontline doctors and therapeutics could have saved potentially millions of lives.",
+      "finding": "unquantified_counterfactual",
+      "evidence_note": "A quantified counterfactual requires the treatment, population, comparator, timing, and uncertainty. None is supplied."
+    },
+    {
+      "id": "rfk-cnn-004",
+      "type": "rights_claim",
+      "summary": "Kennedy says constitutional rights were completely dismantled and dissenters were censored during COVID.",
+      "finding": "overbroad",
+      "evidence_note": "Emergency restrictions raised genuine legal and ethical questions, but this generalization combines different governments, agencies, platforms, and policies and does not answer the preparedness question."
+    },
+    {
+      "id": "rfk-cnn-005",
+      "type": "vaccine_claim",
+      "summary": "Kennedy challenges whether COVID vaccination protected children or did more good than harm.",
+      "finding": "misleading",
+      "evidence_note": "Effectiveness varies by age, variant, product, time, and outcome, but CDC surveillance and evidence reviews document protection against severe disease, hospitalization, and death."
+    },
+    {
+      "id": "rfk-cnn-006",
+      "type": "measles_claim",
+      "summary": "Kennedy attributes current measles outbreaks mainly to missed vaccinations during lockdowns and claims uniquely rapid HHS success.",
+      "finding": "partly_supported_but_incomplete",
+      "evidence_note": "Pandemic disruption can create immunity gaps, but outbreaks also reflect current undervaccination, importation, local clustering, and uneven coverage. Unique success is not demonstrated in the interview."
+    },
+    {
+      "id": "rfk-cnn-007",
+      "type": "vaccine_claim",
+      "summary": "Kennedy tells parents to vaccinate children against measles and says two doses are about 97 percent effective.",
+      "finding": "supported",
+      "evidence_note": "CDC reports approximately 97 percent effectiveness against measles after two doses."
+    },
+    {
+      "id": "rfk-cnn-008",
+      "type": "autism_claim",
+      "summary": "Kennedy says 73 studies link prenatal or perinatal Tylenol exposure to autism.",
+      "finding": "misleading_presentation_of_evidence",
+      "evidence_note": "A study count does not establish causation; designs, exposures, endpoints, confounding, effect sizes, and systematic-review conclusions must be examined."
+    },
+    {
+      "id": "rfk-cnn-009",
+      "type": "autism_claim",
+      "summary": "Kennedy says the National Academy of Sciences/IOM found infant vaccines had not been studied for autism and cites two positive studies.",
+      "finding": "false_or_seriously_misleading",
+      "evidence_note": "The National Academies/IOM record and later large studies do not support a vaccine-autism causal link."
+    },
+    {
+      "id": "rfk-cnn-010",
+      "type": "genetics_claim",
+      "summary": "Kennedy says genes cannot cause epidemics, implying environmental exposure must explain autism.",
+      "finding": "category_error",
+      "evidence_note": "Genetic susceptibility need not spread as an infectious epidemic. Measured prevalence can change through diagnosis, ascertainment, services, and population composition."
+    },
+    {
+      "id": "rfk-cnn-011",
+      "type": "authority_claim",
+      "summary": "Kennedy says Bash is merely repeating experts and that Fauci was lying about everything.",
+      "finding": "unsupported_bundle_and_ad_hominem",
+      "evidence_note": "Claims about masks, distancing, immunity, vaccine transmission, and virus origin are separate propositions requiring separate evidence."
+    },
+    {
+      "id": "rfk-cnn-012",
+      "type": "rhetorical_pattern",
+      "summary": "The interview moves rapidly among many claims when Bash asks for a preparedness plan or a source.",
+      "finding": "gish_gallop_pattern",
+      "evidence_note": "The accumulation of claims shifts the burden of proof to the interviewer and makes real-time verification impossible. Unsupported accumulation is not corroboration."
+    }
+  ],
+  "evidence_sources": [
+    {
+      "title": "CNN rush transcript: State of the Union interview",
+      "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01",
+      "role": "primary_interview_record"
+    },
+    {
+      "title": "CDC: Measles vaccination",
+      "url": "https://www.cdc.gov/measles/vaccines/index.html",
+      "role": "MMR_effectiveness_and_safety"
+    },
+    {
+      "title": "CDC: MMR vaccine safety",
+      "url": "https://www.cdc.gov/vaccine-safety/vaccines/mmr.html",
+      "role": "vaccine_autism_evidence"
+    },
+    {
+      "title": "WHO: Vaccines and autism evidence review",
+      "url": "https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism",
+      "role": "systematic_evidence_review"
+    },
+    {
+      "title": "WHO: Measles cases and outbreaks",
+      "url": "https://www.who.int/news/item/28-11-2025-measles-deaths-down-88--since-2000--but-cases-surge",
+      "role": "coverage_and_outbreak_context"
+    },
+    {
+      "title": "CDC: COVID-19 breakthrough surveillance",
+      "url": "https://www.cdc.gov/mmwr/volumes/70/wr/mm7037e1.htm",
+      "role": "COVID_vaccine_effectiveness"
+    },
+    {
+      "title": "HuffPost incident report",
+      "url": "https://www.huffpost.com/entry/rfk-jr-gish-gallop-cnn-interview_l_6a7099d0e4b07f032143c9e4",
+      "role": "reported_incident_context"
+    }
+  ]
+}

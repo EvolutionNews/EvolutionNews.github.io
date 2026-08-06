@@ -1,0 +1,57 @@
+{
+  "schema":"evolutionnews.public_evidence_docket.v1",
+  "id":"behe-design-of-life",
+  "title":"Behe: Design of Life and the limits of Neo-Darwinism",
+  "source":{"site":"ID the Future","url":"https://idthefuture.com/2203/","episode":"2203","published":"2026-04-22","recorded":"2026-04-22","duration":"00:34:44","speakers":["Andrew McDiarmid","Douglas Axe","Michael Behe"]},
+  "review_state":"public_summary_needs_editor_review",
+  "publication_boundary":"Public claim summaries and citation metadata only; audio, raw transcript, diarization, model output, and private research records remain private.",
+  "synopsis":"Part two of a conversation with Douglas Axe and Michael Behe moves from functional-sequence rarity and specified complexity to Behe's irreducible-complexity and devolution arguments, then infers intelligent design. The docket separates empirical observations from the design inference and supplies evolutionary literature on protein evolution and bacterial flagella.",
+  "counts":{"claims":12,"primary_source_records":1,"research_sources":8,"doi_linked_records":8,"open_access_links":6,"review_sources":9},
+  "tags":["Public draft","Michael Behe","Intelligent design","Irreducible complexity","Molecular machines","Darwin's Black Box","Podcast"],
+  "claims":[
+    {"id":"behe-2203-001","speaker":"Douglas Axe","type":"source_claim","summary":"Functional protein sequences are very rare.","sources":["axe2004folds"]},
+    {"id":"behe-2203-002","speaker":"Douglas Axe","type":"source_claim","summary":"Specified complexity distinguishes function from mere improbability.","sources":["axe2004folds"]},
+    {"id":"behe-2203-003","speaker":"Douglas Axe","type":"inference_claim","summary":"Biological beauty is unexpected under Darwinian evolution.","sources":["harms2013biochem"]},
+    {"id":"behe-2203-004","speaker":"Michael Behe","type":"inference_claim","summary":"Irreducible complexity points to design.","sources":["behesnoke2004","pallenmatzke2006"]},
+    {"id":"behe-2203-005","speaker":"Michael Behe","type":"inference_claim","summary":"Darwinian evolution can explain minor changes but not molecular machines.","sources":["liu2007flagellum"]},
+    {"id":"behe-2203-006","speaker":"Michael Behe","type":"inference_claim","summary":"Mutation and selection tend to degrade existing genes.","sources":[]},
+    {"id":"behe-2203-007","speaker":"Michael Behe","type":"inference_claim","summary":"Complex molecular machines point directly to rational intelligence.","sources":["harms2013biochem"]},
+    {"id":"behe-2203-008","type":"evidence_boundary","summary":"Sequence-rarity estimates depend on the experiment's design.","sources":["axe2004folds"]},
+    {"id":"behe-2203-009","type":"evidence_boundary","summary":"Present-day essentiality does not establish historical impossibility.","sources":["pallenmatzke2006","trotter2014ic"]},
+    {"id":"behe-2203-010","type":"counterevidence","summary":"Comparative genomics supports a stepwise history for bacterial flagella.","sources":["liu2007flagellum"]},
+    {"id":"behe-2203-011","type":"counterevidence","summary":"Flagellar stators have evolutionary relatives outside flagella.","sources":["puente2025motab"]},
+    {"id":"behe-2203-012","type":"counterevidence","summary":"Recent work reconstructs an ancestrally complex bacterial flagellum.","sources":["selcuk2026flagellum"]}
+  ],
+  "verified_citations":[
+    {"key":"axe2004folds","doi":"10.1016/j.jmb.2004.06.058","title":"Estimating the prevalence of protein sequences adopting functional enzyme folds","journal":"Journal of Molecular Biology","year":"2004","url":"https://doi.org/10.1016/j.jmb.2004.06.058","abstract":"https://pubmed.ncbi.nlm.nih.gov/15321723/"},
+    {"key":"behesnoke2004","doi":"10.1110/ps.04802904","title":"Simulating evolution by gene duplication of protein features that require multiple amino acid residues","journal":"Protein Science","year":"2004","url":"https://doi.org/10.1110/ps.04802904","open_access":{"status":"gold","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC2286568/"}},
+    {"key":"pallenmatzke2006","doi":"10.1038/nrmicro1493","title":"From The Origin of Species to the origin of bacterial flagella","journal":"Nature Reviews Microbiology","year":"2006","url":"https://doi.org/10.1038/nrmicro1493","abstract":"https://pubmed.ncbi.nlm.nih.gov/16953248/"},
+    {"key":"liu2007flagellum","doi":"10.1073/pnas.0700266104","title":"Stepwise formation of the bacterial flagellar system","journal":"Proceedings of the National Academy of Sciences","year":"2007","url":"https://doi.org/10.1073/pnas.0700266104","open_access":{"status":"gold","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC1852327/"}},
+    {"key":"trotter2014ic","doi":"10.1111/evo.12517","title":"Cryptic genetic variation can make irreducible complexity a common mode of adaptation in sexual populations","journal":"Evolution","year":"2014","url":"https://doi.org/10.1111/evo.12517","open_access":{"status":"repository","url":"https://explore.openaire.eu/search/publication?pid=10.1111%2Fevo.12517"}},
+    {"key":"harms2013biochem","doi":"10.1038/nrg3540","title":"Evolutionary biochemistry: revealing the historical and physical causes of protein properties","journal":"Nature Reviews Genetics","year":"2013","url":"https://doi.org/10.1038/nrg3540","abstract":"https://www.nature.com/articles/nrg3540","open_access":{"status":"repository","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC4418793/"}},
+    {"key":"puente2025motab","doi":"10.1128/mbio.03824-24","title":"Evolution and structural diversity of the MotAB stator: insights into the origins of bacterial flagellar motility","journal":"mBio","year":"2025","url":"https://doi.org/10.1128/mbio.03824-24","open_access":{"status":"gold","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC12505986/"}},
+    {"key":"selcuk2026flagellum","doi":"10.64898/2026.06.11.731707","title":"The last bacterial common ancestor encoded a complex flagellum","journal":"bioRxiv","year":"2026","url":"https://doi.org/10.64898/2026.06.11.731707","open_access":{"status":"gold","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC13277936/"}}
+  ],
+  "review_sources":[
+    {"site":"TalkOrigins","title":"The Mullerian Two-Step, or Why Behe's Irreducible Complexity is silly","url":"https://talkorigins.org/faqs/comdesc/ICsilly.html","relevance":"behe-2203-004, behe-2203-009"},
+    {"site":"TalkOrigins","title":"Bacterial flagellum and its homologies","url":"https://talkorigins.org/indexcc/CB/CB200_1_1.html","relevance":"behe-2203-005, behe-2203-010"},
+    {"site":"TalkOrigins","title":"Irreducible Complexity and Michael Behe on Intelligent Design","url":"https://talkorigins.org/faqs/behe.html","relevance":"behe-2203-004, behe-2203-012"},
+    {"site":"TalkOrigins","title":"Kitzmiller v. Dover: Day 10, AM: Michael Behe","url":"https://talkorigins.org/faqs/dover/day10am2.html","relevance":"behe-2203-004, behe-2203-005"},
+    {"site":"TalkOrigins","title":"Kitzmiller v. Dover: Day 10, PM: Michael Behe","url":"https://talkorigins.org/faqs/dover/day10pm2.html","relevance":"behe-2203-004, behe-2203-005"},
+    {"site":"TalkOrigins","title":"Kitzmiller v. Dover: Day 12, AM: Michael Behe","url":"https://talkorigins.org/faqs/dover/day12am2.html","relevance":"behe-2203-007, behe-2203-009"},
+    {"site":"TalkDesign","title":"Evolution in (Brownian) space: a model for the origin of the bacterial flagellum","url":"https://www.talkdesign.org/faqs/flagellum.html","relevance":"behe-2203-005, behe-2203-010, behe-2203-012"},
+    {"site":"Panda's Thumb","title":"Evolving Complex Stuff: Darwinian Evolution and Irreducible Complexity","url":"https://pandasthumb.org/archives/2004/03/evolving-comple.html","relevance":"behe-2203-011"},
+    {"site":"Panda's Thumb","title":"Beyond Suboptimality: Logical Fallacy of Behe's IC means ID Notion","url":"https://pandasthumb.org/archives/2005/02/beyond-suboptim.html","relevance":"behe-2203-004, behe-2203-007"}
+  ],
+  "claim_review_map":{
+    "behe-2203-004":["https://talkorigins.org/faqs/comdesc/ICsilly.html","https://pandasthumb.org/archives/2005/02/beyond-suboptim.html"],
+    "behe-2203-005":["https://www.talkdesign.org/faqs/flagellum.html","https://talkorigins.org/indexcc/CB/CB200_1_1.html"],
+    "behe-2203-007":["https://pandasthumb.org/archives/2005/02/beyond-suboptim.html","https://talkorigins.org/faqs/dover/day12am2.html"],
+    "behe-2203-009":["https://talkorigins.org/faqs/comdesc/ICsilly.html","https://pandasthumb.org/archives/2006/04/evolution-of-ic-1.html"],
+    "behe-2203-010":["https://talkorigins.org/indexcc/CB/CB200_1_1.html","https://www.talkdesign.org/faqs/flagellum.html"],
+    "behe-2203-011":["https://talkorigins.org/indexcc/CB/CB200_1.html","https://pandasthumb.org/archives/2004/03/evolving-comple.html"],
+    "behe-2203-012":["https://talkorigins.org/faqs/behe.html","https://www.talkdesign.org/faqs/flagellum.html"]
+  },
+  "talkorigins_mappings":["https://talkorigins.org/indexcc/CB/CB200_1.html","https://talkorigins.org/indexcc/CB/CB200_1_1.html","https://talkorigins.org/faqs/behe.html","https://talkorigins.org/faqs/comdesc/ICsilly.html","https://talkorigins.org/faqs/dover/day10am2.html","https://talkorigins.org/faqs/dover/day10pm2.html","https://talkorigins.org/faqs/dover/day12am2.html"],
+  "provisional_finding":"The episode identifies genuine biochemical complexity and unresolved historical questions, but its inference that these establish design is not entailed by the observations. Evolutionary biochemistry, comparative genomics, and ancestral reconstructions provide relevant natural-history models."
+}

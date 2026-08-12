@@ -24,71 +24,117 @@
       "id": "tm-flagellum-001",
       "type": "scientific_claim",
       "summary": "The bacterial flagellar motor is described mechanistically as work driven by a proton imbalance across the membrane.",
-      "toa_indexcc": ["https://talkorigins.org/indexcc/CB/CB200_1.html", "https://talkorigins.org/indexcc/CB/CB200_1_1.html"],
-      "toa_articles": ["https://talkorigins.org/faqs/behe.html", "https://talkorigins.org/faqs/behe/publish.html"]
+      "toa_indexcc": [
+        "https://talkorigins.org/indexcc/CB/CB200_1.html",
+        "https://talkorigins.org/indexcc/CB/CB200_1_1.html"
+      ],
+      "toa_articles": [
+        "https://talkorigins.org/faqs/behe.html",
+        "https://talkorigins.org/faqs/behe/publish.html"
+      ]
     },
     {
       "id": "tm-flagellum-002",
       "type": "scientific_claim",
       "summary": "Bacterial flagella are rigid helical filaments rotated by a membrane-embedded motor rather than cilium-like contraction.",
-      "toa_indexcc": ["https://talkorigins.org/indexcc/CB/CB200_1.html"],
-      "toa_articles": ["https://talkorigins.org/faqs/behe.html"]
+      "toa_indexcc": [
+        "https://talkorigins.org/indexcc/CB/CB200_1.html"
+      ],
+      "toa_articles": [
+        "https://talkorigins.org/faqs/behe.html"
+      ]
     },
     {
       "id": "tm-flagellum-003",
       "type": "scientific_claim",
       "summary": "Cryo-electron microscopy work reported a 5:2 stator architecture relevant to coupling stator rotation to the C-ring.",
-      "toa_indexcc": ["https://talkorigins.org/indexcc/CB/CB200_1.html"],
-      "toa_articles": ["https://talkorigins.org/faqs/behe/publish.html"]
+      "toa_indexcc": [
+        "https://talkorigins.org/indexcc/CB/CB200_1.html"
+      ],
+      "toa_articles": [
+        "https://talkorigins.org/faqs/behe/publish.html"
+      ]
     },
     {
       "id": "tm-flagellum-004",
       "type": "scientific_claim",
       "summary": "A cited PNAS paper is used for a quantitative claim about proton flux through stators and torque generation.",
-      "toa_indexcc": ["https://talkorigins.org/indexcc/CB/CB200_1.html"],
-      "toa_articles": ["https://talkorigins.org/faqs/behe.html"]
+      "toa_indexcc": [
+        "https://talkorigins.org/indexcc/CB/CB200_1.html"
+      ],
+      "toa_articles": [
+        "https://talkorigins.org/faqs/behe.html"
+      ]
     },
     {
       "id": "tm-flagellum-005",
       "type": "scientific_claim",
       "summary": "CheY phosphorylation and C-ring binding are presented as mechanisms for rapid motor switching and tumbling.",
-      "toa_indexcc": ["https://talkorigins.org/indexcc/CB/CB200_1.html"],
-      "toa_articles": ["https://talkorigins.org/faqs/behe.html"]
+      "toa_indexcc": [
+        "https://talkorigins.org/indexcc/CB/CB200_1.html"
+      ],
+      "toa_articles": [
+        "https://talkorigins.org/faqs/behe.html"
+      ]
     },
     {
       "id": "tm-flagellum-006",
       "type": "scientific_claim",
       "summary": "Chemiosmotic theory explains cellular work as powered by proton gradients rather than a special vital force.",
       "toa_indexcc": [],
-      "toa_articles": ["https://talkorigins.org/faqs/abioprob/originoflife.html"]
+      "toa_articles": [
+        "https://talkorigins.org/faqs/abioprob/originoflife.html"
+      ]
     },
     {
       "id": "tm-flagellum-007",
       "type": "opposition_claim_reported",
       "summary": "Michael Behe used the bacterial flagellum as a central example of irreducible complexity and intelligent design.",
-      "toa_indexcc": ["https://talkorigins.org/indexcc/CB/CB200_1.html", "https://talkorigins.org/indexcc/CB/CB200.html"],
-      "toa_articles": ["https://talkorigins.org/faqs/behe.html", "https://talkorigins.org/faqs/comdesc/ICsilly.html"]
+      "toa_indexcc": [
+        "https://talkorigins.org/indexcc/CB/CB200_1.html",
+        "https://talkorigins.org/indexcc/CB/CB200.html"
+      ],
+      "toa_articles": [
+        "https://talkorigins.org/faqs/behe.html",
+        "https://talkorigins.org/faqs/comdesc/ICsilly.html"
+      ]
     },
     {
       "id": "tm-flagellum-008",
       "type": "legal_historical_claim",
       "summary": "Kitzmiller v. Dover is used for the legal-historical conclusion that intelligent design is religious creationism rather than public-school science.",
-      "toa_indexcc": ["https://talkorigins.org/indexcc/CI/CI001_2.html", "https://talkorigins.org/indexcc/CI/CI001_1.html"],
-      "toa_articles": ["https://talkorigins.org/faqs/dover/kitzmiller_v_dover.html", "https://talkorigins.org/faqs/dover/pf.html"]
+      "toa_indexcc": [
+        "https://talkorigins.org/indexcc/CI/CI001_2.html",
+        "https://talkorigins.org/indexcc/CI/CI001_1.html"
+      ],
+      "toa_articles": [
+        "https://talkorigins.org/faqs/dover/kitzmiller_v_dover.html",
+        "https://talkorigins.org/faqs/dover/pf.html"
+      ]
     },
     {
       "id": "tm-flagellum-009",
       "type": "scientific_claim",
       "summary": "A 2025 mBio paper is used as evidence that MotAB stators and non-flagellar relatives illuminate flagellar evolutionary history.",
-      "toa_indexcc": ["https://talkorigins.org/indexcc/CB/CB200_1.html", "https://talkorigins.org/indexcc/CB/CB200_1_1.html"],
-      "toa_articles": ["https://talkorigins.org/faqs/behe.html", "https://talkorigins.org/faqs/behe/publish.html"]
+      "toa_indexcc": [
+        "https://talkorigins.org/indexcc/CB/CB200_1.html",
+        "https://talkorigins.org/indexcc/CB/CB200_1_1.html"
+      ],
+      "toa_articles": [
+        "https://talkorigins.org/faqs/behe.html",
+        "https://talkorigins.org/faqs/behe/publish.html"
+      ]
     },
     {
       "id": "tm-flagellum-010",
       "type": "open_scientific_question",
       "summary": "The origin of proton gradients in first cells is framed as an open origins-of-life question with alkaline hydrothermal vents as an active research context.",
-      "toa_indexcc": ["https://talkorigins.org/indexcc/CB/CB010_2.html"],
-      "toa_articles": ["https://talkorigins.org/faqs/abioprob/originoflife.html"]
+      "toa_indexcc": [
+        "https://talkorigins.org/indexcc/CB/CB010_2.html"
+      ],
+      "toa_articles": [
+        "https://talkorigins.org/faqs/abioprob/originoflife.html"
+      ]
     }
   ],
   "verified_citations": [
@@ -98,7 +144,10 @@
       "journal": "Proceedings of the National Academy of Sciences",
       "year": "2026",
       "url": "https://doi.org/10.1073/pnas.2516278123",
-      "open_access": {"status": "hybrid", "url": "https://doi.org/10.1073/pnas.2516278123"}
+      "open_access": {
+        "status": "hybrid",
+        "url": "https://doi.org/10.1073/pnas.2516278123"
+      }
     },
     {
       "doi": "10.1038/s41564-020-0788-8",
@@ -106,7 +155,11 @@
       "journal": "Nature Microbiology",
       "year": "2020",
       "url": "https://doi.org/10.1038/s41564-020-0788-8",
-      "open_access": {"status": "green", "url": "http://wrap.warwick.ac.uk/140825/1/WRAP-structures-stator-complex-drives-rotation-bacterial-flagellum-Stansfeld-2020.pdf", "pdf": "http://wrap.warwick.ac.uk/140825/1/WRAP-structures-stator-complex-drives-rotation-bacterial-flagellum-Stansfeld-2020.pdf"}
+      "open_access": {
+        "status": "green",
+        "url": "http://wrap.warwick.ac.uk/140825/1/WRAP-structures-stator-complex-drives-rotation-bacterial-flagellum-Stansfeld-2020.pdf",
+        "pdf": "http://wrap.warwick.ac.uk/140825/1/WRAP-structures-stator-complex-drives-rotation-bacterial-flagellum-Stansfeld-2020.pdf"
+      }
     },
     {
       "doi": "10.1073/pnas.2515291122",
@@ -114,7 +167,10 @@
       "journal": "Proceedings of the National Academy of Sciences",
       "year": "2025",
       "url": "https://doi.org/10.1073/pnas.2515291122",
-      "open_access": {"status": "hybrid", "url": "https://doi.org/10.1073/pnas.2515291122"}
+      "open_access": {
+        "status": "hybrid",
+        "url": "https://doi.org/10.1073/pnas.2515291122"
+      }
     },
     {
       "doi": "10.1038/s41564-024-01630-z",
@@ -122,7 +178,9 @@
       "journal": "Nature Microbiology",
       "year": "2024",
       "url": "https://doi.org/10.1038/s41564-024-01630-z",
-      "open_access": {"status": "closed"}
+      "open_access": {
+        "status": "closed"
+      }
     },
     {
       "doi": "10.1128/mbio.03824-24",
@@ -130,7 +188,10 @@
       "journal": "mBio",
       "year": "2025",
       "url": "https://doi.org/10.1128/mbio.03824-24",
-      "open_access": {"status": "gold", "url": "https://doi.org/10.1128/mbio.03824-24"}
+      "open_access": {
+        "status": "gold",
+        "url": "https://doi.org/10.1128/mbio.03824-24"
+      }
     },
     {
       "doi": "10.1089/ast.2015.1406",
@@ -138,7 +199,9 @@
       "journal": "Astrobiology",
       "year": "2016",
       "url": "https://doi.org/10.1089/ast.2015.1406",
-      "open_access": {"status": "closed"}
+      "open_access": {
+        "status": "closed"
+      }
     }
   ],
   "additional_oa_checked_source": {
@@ -148,5 +211,13 @@
       "status": "gold",
       "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/23746149.2017.1289120?needAccess=true"
     }
+  },
+  "citation_enrichment": {
+    "pipeline": "CiteGeist sync-jabref normalization with Crossref DOI abstract supplement",
+    "status": "completed",
+    "bibliography_records": 6,
+    "abstracts_in_bibtex": 3,
+    "missing_abstracts_are_not_invented": true,
+    "research_timestamp": "2026-08-12"
   }
 }

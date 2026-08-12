@@ -26,98 +26,163 @@
       "type": "historical_claim",
       "summary": "Darwin's Black Box created a major public controversy and irreducible complexity remains influential.",
       "finding": "Partly supported as a claim about attention and influence; not evidence that the biological argument is correct.",
-      "sources": ["dembski2026blackbox30", "behe1996blackbox", "talkoriginsbehe"]
+      "sources": [
+        "dembski2026blackbox30",
+        "behe1996blackbox",
+        "talkoriginsbehe"
+      ]
     },
     {
       "id": "dbb30-002",
       "type": "institutional_claim",
       "summary": "Lehigh's departmental disclaimer about evolution and intelligent design is evidence of disciplinary suppression or embarrassment.",
       "finding": "Unsupported inference. The linked statement documents the department's scientific position; it does not establish intimidation, suppression, or the truth of Behe's scientific claims.",
-      "sources": ["lehigh2026evolution", "dembski2026blackbox30"]
+      "sources": [
+        "lehigh2026evolution",
+        "dembski2026blackbox30"
+      ]
     },
     {
       "id": "dbb30-003",
       "type": "empirical_claim",
       "summary": "Axe's 2004 experiment is a definitive demonstration that functional protein classes are highly isolated in sequence space.",
       "finding": "Overstated. Axe measured functional prevalence under a particular assay and protein design; that result is relevant to constraints on some mutational routes, but it does not establish that all functional transitions lack selectable intermediates or that evolution must jump between isolated endpoints.",
-      "sources": ["axe2004folds", "harms2013biochem"]
+      "sources": [
+        "axe2004folds",
+        "harms2013biochem"
+      ]
     },
     {
       "id": "dbb30-004",
       "type": "definition_claim",
       "summary": "The bacterial flagellum is irreducibly complex because removing any part destroys its basic motility function.",
       "finding": "The removal test describes dependence in an extant system. It does not by itself reconstruct the system's history or show that every precursor had to perform motility by the same mechanism.",
-      "sources": ["behe1996blackbox", "talkoriginsbehe", "pallenmatzke2006"]
+      "sources": [
+        "behe1996blackbox",
+        "talkoriginsbehe",
+        "pallenmatzke2006"
+      ]
     },
     {
       "id": "dbb30-005",
       "type": "argument_claim",
       "summary": "Critics such as Ken Miller evade irreducible complexity by redefining it whenever a remnant can perform another function.",
       "finding": "Mischaracterized. The evolutionary relevance of an alternate function is not a redefinition of the removal test; it is a challenge to the assumption that the system's present basic function must have been the function selected at every earlier stage.",
-      "sources": ["miller1999finding", "talkoriginsicsilly", "gouldvrba1982"]
+      "sources": [
+        "miller1999finding",
+        "talkoriginsicsilly",
+        "gouldvrba1982"
+      ]
     },
     {
       "id": "dbb30-006",
       "type": "argument_claim",
       "summary": "A mousetrap base used as a doorstop does not refute irreducible complexity because it no longer catches mice.",
       "finding": "The analogy is formally correct but historically incomplete. Evolutionary co-option does not claim that a stripped-down flagellum is already a functional flagellum; it asks whether parts or subsystems had selectable functions before later additions, modifications, or dependencies produced the present machine.",
-      "sources": ["dembski2026blackbox30", "talkoriginsicsilly", "truecarroll2002", "gouldvrba1982"]
+      "sources": [
+        "dembski2026blackbox30",
+        "talkoriginsicsilly",
+        "truecarroll2002",
+        "gouldvrba1982"
+      ]
     },
     {
       "id": "dbb30-007",
       "type": "empirical_claim",
       "summary": "The type III secretion system does not answer the flagellum problem because it performs secretion rather than motility.",
       "finding": "The distinction in present function is real; the conclusion does not follow. Homologous export machinery can be recruited into systems with different functions. Comparative analyses support an evolutionary relationship while continuing to debate the exact chronology and route.",
-      "sources": ["pallenmatzke2006", "pallen2007complexity", "abby2012t3ss", "gophna2003t3ss"]
+      "sources": [
+        "pallenmatzke2006",
+        "pallen2007complexity",
+        "abby2012t3ss",
+        "gophna2003t3ss"
+      ]
     },
     {
       "id": "dbb30-008",
       "type": "historical_claim",
       "summary": "Because animals appeared after bacteria, the flagellum must have preceded the non-flagellar type III secretion system, and this reverses the usual evolutionary expectation.",
       "finding": "Partly supported but oversimplified. The flagellum-first direction is supported by important comparative work, but the inference depends on phylogenomics and homology, not merely on broad organismal chronology. Earlier studies proposed shared ancestry or competing histories.",
-      "sources": ["abby2012t3ss", "gophna2003t3ss", "pallen2007complexity"]
+      "sources": [
+        "abby2012t3ss",
+        "gophna2003t3ss",
+        "pallen2007complexity"
+      ]
     },
     {
       "id": "dbb30-009",
       "type": "empirical_claim",
       "summary": "No plausible intermediate steps have been identified for the bacterial flagellum.",
       "finding": "False as a blanket statement. The literature contains explicit comparative and phylogenomic models involving ancestral cores, gene duplication, modification, deletion, recruitment, and subsystem co-option. These models remain revisable and do not amount to a complete experimentally observed historical replay, but they are more than an assertion that the parts simply appeared.",
-      "sources": ["liu2007flagellum", "pallenmatzke2006", "talkdesignflagellum", "abby2012t3ss"]
+      "sources": [
+        "liu2007flagellum",
+        "pallenmatzke2006",
+        "talkdesignflagellum",
+        "abby2012t3ss"
+      ]
     },
     {
       "id": "dbb30-010",
       "type": "generalization_claim",
       "summary": "It is easier for evolution to remove parts than to add coordinated parts, so simplification is the primary trajectory of Darwinian evolution.",
       "finding": "A useful possibility in some histories, not a general law. Deletion, duplication, recruitment, horizontal transfer, mutation, and regulatory change can all contribute; the direction must be tested in each system.",
-      "sources": ["abby2012t3ss", "liu2007flagellum", "puente2025motab", "andrianova2025flio", "harms2013biochem"]
+      "sources": [
+        "abby2012t3ss",
+        "liu2007flagellum",
+        "puente2025motab",
+        "andrianova2025flio",
+        "harms2013biochem"
+      ]
     },
     {
       "id": "dbb30-011",
       "type": "theory_claim",
       "summary": "Irreducible complexity remains a serious challenge because there are no detailed Darwinian accounts of fundamental biochemical systems.",
       "finding": "Too broad. Some systems lack a settled, fully detailed historical reconstruction, but the claim conflates incomplete knowledge with failure of the evolutionary framework and ignores published models, comparative evidence, and experimentally testable mechanisms.",
-      "sources": ["orr1996darwinid", "liu2007flagellum", "abby2012t3ss", "trotter2014ic", "talkoriginsbehereview"]
+      "sources": [
+        "orr1996darwinid",
+        "liu2007flagellum",
+        "abby2012t3ss",
+        "trotter2014ic",
+        "talkoriginsbehereview"
+      ]
     },
     {
       "id": "dbb30-012",
       "type": "inference_claim",
       "summary": "The persistence of criticism and unresolved details show that intelligent design is ascendant and that design is the best explanation.",
       "finding": "Not established. Public attention, institutional conflict, and gaps in reconstruction do not supply a positive design model, mechanism, or discriminating prediction. The article's conclusion is an inference from perceived difficulty, not a demonstrated causal explanation.",
-      "sources": ["dembski2004ic", "talkoriginsbehe", "talkdesignflagellum", "kitzmiller2005record"]
+      "sources": [
+        "dembski2004ic",
+        "talkoriginsbehe",
+        "talkdesignflagellum",
+        "kitzmiller2005record"
+      ]
     },
     {
       "id": "dbb30-013",
       "type": "historical_evolutionary_argument",
       "summary": "H. J. Muller argued in 1918 and 1939 that evolution should produce interlocking complexity: formerly dispensable features can become indispensable as later changes create dependencies.",
       "finding": "Directly relevant and underweighted in Dembski's article. Muller anticipated the distinction between present-day indispensability and historical origin. The argument does not supply a complete flagellum history, but it defeats the claim that an alternate earlier function is irrelevant in principle.",
-      "sources": ["muller1918interlocking", "muller1939reversibility", "talkoriginsicsilly", "truecarroll2002"]
+      "sources": [
+        "muller1918interlocking",
+        "muller1939reversibility",
+        "talkoriginsicsilly",
+        "truecarroll2002"
+      ]
     },
     {
       "id": "dbb30-014",
       "type": "argument_structure",
       "summary": "Dembski repeatedly treats a demand for a fully specified evolutionary pathway as if it required a sudden, functionless 'poof' event, while treating unexplained design insertion as a serious alternative.",
       "finding": "The standards are asymmetric. Biologists generally reject 'poof' as an explanation wherever it is asserted and therefore investigate functional precursors, co-option, duplication, recruitment, and interlocking dependencies. Finding a precursor with a different function does not answer every historical question, but dismissing it because it does not perform the later system's function imposes an extra requirement on evolution rather than testing the evidence. This is an interpretive finding about the article's argumentative structure, not a claim that every creationist or intelligent-design advocate reasons identically.",
-      "sources": ["dembski2026blackbox30", "dembski2004ic", "talkoriginsicsilly", "muller1918interlocking", "muller1939reversibility"]
+      "sources": [
+        "dembski2026blackbox30",
+        "dembski2004ic",
+        "talkoriginsicsilly",
+        "muller1918interlocking",
+        "muller1939reversibility"
+      ]
     }
   ],
   "method_notes": [
@@ -129,32 +194,220 @@
     "The docket also distinguishes an asserted 'poof' mechanism from evolutionary mechanisms: biologists treat unexplained sudden appearance as an evidentiary gap, while the article's critique often treats the absence of a complete reconstruction as evidence against evolution. This asymmetry is reported as an argument-structure finding, not as a universal claim about all opponents of evolutionary biology."
   ],
   "verified_citations": [
-    {"key":"dembski2026blackbox30","doi":"","title":"Darwin's Black Box 30 Years On","container":"Bill Dembski Substack","year":"2026","url":"https://billdembski.substack.com/p/darwins-black-box-30-years-on"},
-    {"key":"behe1996blackbox","doi":"","title":"Darwin's Black Box: The Biochemical Challenge to Evolution","container":"Free Press","year":"1996","url":"https://www.worldcat.org/title/34150540"},
-    {"key":"axe2004folds","doi":"10.1016/j.jmb.2004.06.058","title":"Estimating the Prevalence of Protein Sequences Adopting Functional Enzyme Folds","container":"Journal of Molecular Biology","year":"2004","url":"https://doi.org/10.1016/j.jmb.2004.06.058","open_access":"https://pubmed.ncbi.nlm.nih.gov/15321723/"},
-    {"key":"miller1999finding","doi":"","title":"Finding Darwin's God: A Scientist's Search for Common Ground Between God and Evolution","container":"Cliff Street Books","year":"1999","url":"https://www.worldcat.org/title/39101752"},
-    {"key":"orr1996darwinid","doi":"","title":"Darwin v. Intelligent Design (Again)","container":"Boston Review","year":"1996","url":"https://talkorigins.org/faqs/behe.html"},
-    {"key":"pallenmatzke2006","doi":"10.1038/nrmicro1493","title":"From The Origin of Species to the origin of bacterial flagella","container":"Nature Reviews Microbiology","year":"2006","url":"https://doi.org/10.1038/nrmicro1493"},
-    {"key":"pallen2007complexity","doi":"10.1159/000107602","title":"Bacterial Flagella and Type III Secretion: Case Studies in the Evolution of Complexity","container":"Genome Dynamics","year":"2007","url":"https://doi.org/10.1159/000107602"},
-    {"key":"liu2007flagellum","doi":"10.1073/pnas.0700266104","title":"Stepwise formation of the bacterial flagellar system","container":"Proceedings of the National Academy of Sciences","year":"2007","url":"https://doi.org/10.1073/pnas.0700266104","open_access":"https://pmc.ncbi.nlm.nih.gov/articles/PMC1852327/"},
-    {"key":"gophna2003t3ss","doi":"10.1016/S0378-1119(03)00612-7","title":"Bacterial type III secretion systems are ancient and evolved by multiple horizontal-transfer events","container":"Gene","year":"2003","url":"https://doi.org/10.1016/S0378-1119(03)00612-7"},
-    {"key":"abby2012t3ss","doi":"10.1371/journal.pgen.1002983","title":"The Non-Flagellar Type III Secretion System Evolved from the Bacterial Flagellum and Diversified into Host-Cell Adapted Systems","container":"PLoS Genetics","year":"2012","url":"https://doi.org/10.1371/journal.pgen.1002983","open_access":"https://pmc.ncbi.nlm.nih.gov/articles/PMC3459982/"},
-    {"key":"gouldvrba1982","doi":"10.1017/S0094837300004310","title":"Exaptation—a Missing Term in the Science of Form","container":"Paleobiology","year":"1982","url":"https://doi.org/10.1017/S0094837300004310"},
-    {"key":"harms2013biochem","doi":"10.1038/nrg3540","title":"Evolutionary biochemistry: revealing the historical and physical causes of protein properties","container":"Nature Reviews Genetics","year":"2013","url":"https://doi.org/10.1038/nrg3540","open_access":"https://pmc.ncbi.nlm.nih.gov/articles/PMC4418793/"},
-    {"key":"trotter2014ic","doi":"10.1111/evo.12517","title":"Cryptic genetic variation can make ‘irreducible complexity’ a common mode of adaptation in sexual populations","container":"Evolution","year":"2014","url":"https://doi.org/10.1111/evo.12517"},
-    {"key":"puente2025motab","doi":"10.1128/mbio.03824-24","title":"Evolution and structural diversity of the MotAB stator: insights into the origins of bacterial flagellar motility","container":"mBio","year":"2025","url":"https://doi.org/10.1128/mbio.03824-24"},
-    {"key":"andrianova2025flio","doi":"10.1073/pnas.2512476122","title":"FliO is an evolutionarily conserved yet diversified core component of the bacterial flagellar type III secretion system","container":"Proceedings of the National Academy of Sciences","year":"2025","url":"https://doi.org/10.1073/pnas.2512476122","open_access":"https://pmc.ncbi.nlm.nih.gov/articles/PMC12248157/"},
-    {"key":"truecarroll2002","doi":"","title":"Gene Co-Option in Physiological and Morphological Evolution","container":"Annual Review of Cell and Developmental Biology","year":"2002","url":"https://pubmed.ncbi.nlm.nih.gov/12468482/"},
-    {"key":"behe2004snoke","doi":"10.1110/ps.04802904","title":"Simulating evolution by gene duplication of protein features that require multiple amino acid residues","container":"Protein Science","year":"2004","url":"https://doi.org/10.1110/ps.04802904","open_access":"https://pmc.ncbi.nlm.nih.gov/articles/PMC2286568/"},
-    {"key":"dembski2004ic","doi":"","title":"Irreducible Complexity Revisited","container":"Philosophia Christi","year":"2004","url":"https://billdembski.com/documents/2004.01.Irred_Compl_Revisited.pdf"},
-    {"key":"muller1918interlocking","doi":"","title":"Genetic Variability, Twin Hybrids and Constant Hybrids in a Case of Balanced Lethal Factors","container":"Genetics","year":"1918","url":"https://web.archive.org/web/20080507113340if_/http://www.genetics.org/cgi/reprint/3/5/422"},
-    {"key":"muller1939reversibility","doi":"10.1111/j.1469-185X.1939.tb00934.x","title":"Reversibility in Evolution Considered from the Standpoint of Genetics","container":"Biological Reviews of the Cambridge Philosophical Society","year":"1939","url":"https://doi.org/10.1111/j.1469-185X.1939.tb00934.x"},
-    {"key":"talkoriginsbehe","doi":"","title":"Irreducible Complexity and Michael Behe on Intelligent Design","container":"TalkOrigins Archive","year":"n.d.","url":"https://talkorigins.org/faqs/behe.html"},
-    {"key":"talkoriginsbehereview","doi":"","title":"Darwin's Black Box: Irreducible Complexity or Irreproducible Irreducibility?","container":"TalkOrigins Archive","year":"n.d.","url":"https://talkorigins.org/faqs/behe/review.html"},
-    {"key":"talkoriginsicsilly","doi":"","title":"The Mullerian Two-Step, or Why Behe's ‘Irreducible Complexity’ is Silly","container":"TalkOrigins Archive","year":"n.d.","url":"https://talkorigins.org/faqs/comdesc/ICsilly.html"},
-    {"key":"talkdesignflagellum","doi":"","title":"Evolution of the bacterial flagellum","container":"TalkDesign","year":"n.d.","url":"https://talkdesign.org/faqs/flagellum.html"},
-    {"key":"lehigh2026evolution","doi":"","title":"Department Position on Evolution and Intelligent Design","container":"Lehigh University Department of Biological Sciences","year":"n.d.","url":"https://bio.cas.lehigh.edu/about/department-position-evolution-intelligent-design"},
-    {"key":"kitzmiller2005record","doi":"","title":"Congressional Record, House section, H4480-9","container":"U.S. Congress","year":"2000","url":"https://www.congress.gov/congressional-record/volume-146/issue-74/house-section/article/H4480-9"}
+    {
+      "key": "dembski2026blackbox30",
+      "doi": "",
+      "title": "Darwin's Black Box 30 Years On",
+      "container": "Bill Dembski Substack",
+      "year": "2026",
+      "url": "https://billdembski.substack.com/p/darwins-black-box-30-years-on"
+    },
+    {
+      "key": "behe1996blackbox",
+      "doi": "",
+      "title": "Darwin's Black Box: The Biochemical Challenge to Evolution",
+      "container": "Free Press",
+      "year": "1996",
+      "url": "https://www.worldcat.org/title/34150540"
+    },
+    {
+      "key": "axe2004folds",
+      "doi": "10.1016/j.jmb.2004.06.058",
+      "title": "Estimating the Prevalence of Protein Sequences Adopting Functional Enzyme Folds",
+      "container": "Journal of Molecular Biology",
+      "year": "2004",
+      "url": "https://doi.org/10.1016/j.jmb.2004.06.058",
+      "open_access": "https://pubmed.ncbi.nlm.nih.gov/15321723/"
+    },
+    {
+      "key": "miller1999finding",
+      "doi": "",
+      "title": "Finding Darwin's God: A Scientist's Search for Common Ground Between God and Evolution",
+      "container": "Cliff Street Books",
+      "year": "1999",
+      "url": "https://www.worldcat.org/title/39101752"
+    },
+    {
+      "key": "orr1996darwinid",
+      "doi": "",
+      "title": "Darwin v. Intelligent Design (Again)",
+      "container": "Boston Review",
+      "year": "1996",
+      "url": "https://talkorigins.org/faqs/behe.html"
+    },
+    {
+      "key": "pallenmatzke2006",
+      "doi": "10.1038/nrmicro1493",
+      "title": "From The Origin of Species to the origin of bacterial flagella",
+      "container": "Nature Reviews Microbiology",
+      "year": "2006",
+      "url": "https://doi.org/10.1038/nrmicro1493"
+    },
+    {
+      "key": "pallen2007complexity",
+      "doi": "10.1159/000107602",
+      "title": "Bacterial Flagella and Type III Secretion: Case Studies in the Evolution of Complexity",
+      "container": "Genome Dynamics",
+      "year": "2007",
+      "url": "https://doi.org/10.1159/000107602"
+    },
+    {
+      "key": "liu2007flagellum",
+      "doi": "10.1073/pnas.0700266104",
+      "title": "Stepwise formation of the bacterial flagellar system",
+      "container": "Proceedings of the National Academy of Sciences",
+      "year": "2007",
+      "url": "https://doi.org/10.1073/pnas.0700266104",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1852327/"
+    },
+    {
+      "key": "gophna2003t3ss",
+      "doi": "10.1016/S0378-1119(03)00612-7",
+      "title": "Bacterial type III secretion systems are ancient and evolved by multiple horizontal-transfer events",
+      "container": "Gene",
+      "year": "2003",
+      "url": "https://doi.org/10.1016/S0378-1119(03)00612-7"
+    },
+    {
+      "key": "abby2012t3ss",
+      "doi": "10.1371/journal.pgen.1002983",
+      "title": "The Non-Flagellar Type III Secretion System Evolved from the Bacterial Flagellum and Diversified into Host-Cell Adapted Systems",
+      "container": "PLoS Genetics",
+      "year": "2012",
+      "url": "https://doi.org/10.1371/journal.pgen.1002983",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3459982/"
+    },
+    {
+      "key": "gouldvrba1982",
+      "doi": "10.1017/S0094837300004310",
+      "title": "Exaptation—a Missing Term in the Science of Form",
+      "container": "Paleobiology",
+      "year": "1982",
+      "url": "https://doi.org/10.1017/S0094837300004310"
+    },
+    {
+      "key": "harms2013biochem",
+      "doi": "10.1038/nrg3540",
+      "title": "Evolutionary biochemistry: revealing the historical and physical causes of protein properties",
+      "container": "Nature Reviews Genetics",
+      "year": "2013",
+      "url": "https://doi.org/10.1038/nrg3540",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4418793/"
+    },
+    {
+      "key": "trotter2014ic",
+      "doi": "10.1111/evo.12517",
+      "title": "Cryptic genetic variation can make ‘irreducible complexity’ a common mode of adaptation in sexual populations",
+      "container": "Evolution",
+      "year": "2014",
+      "url": "https://doi.org/10.1111/evo.12517"
+    },
+    {
+      "key": "puente2025motab",
+      "doi": "10.1128/mbio.03824-24",
+      "title": "Evolution and structural diversity of the MotAB stator: insights into the origins of bacterial flagellar motility",
+      "container": "mBio",
+      "year": "2025",
+      "url": "https://doi.org/10.1128/mbio.03824-24"
+    },
+    {
+      "key": "andrianova2025flio",
+      "doi": "10.1073/pnas.2512476122",
+      "title": "FliO is an evolutionarily conserved yet diversified core component of the bacterial flagellar type III secretion system",
+      "container": "Proceedings of the National Academy of Sciences",
+      "year": "2025",
+      "url": "https://doi.org/10.1073/pnas.2512476122",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12248157/"
+    },
+    {
+      "key": "truecarroll2002",
+      "doi": "",
+      "title": "Gene Co-Option in Physiological and Morphological Evolution",
+      "container": "Annual Review of Cell and Developmental Biology",
+      "year": "2002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12468482/"
+    },
+    {
+      "key": "behe2004snoke",
+      "doi": "10.1110/ps.04802904",
+      "title": "Simulating evolution by gene duplication of protein features that require multiple amino acid residues",
+      "container": "Protein Science",
+      "year": "2004",
+      "url": "https://doi.org/10.1110/ps.04802904",
+      "open_access": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2286568/"
+    },
+    {
+      "key": "dembski2004ic",
+      "doi": "",
+      "title": "Irreducible Complexity Revisited",
+      "container": "Philosophia Christi",
+      "year": "2004",
+      "url": "https://billdembski.com/documents/2004.01.Irred_Compl_Revisited.pdf"
+    },
+    {
+      "key": "muller1918interlocking",
+      "doi": "",
+      "title": "Genetic Variability, Twin Hybrids and Constant Hybrids in a Case of Balanced Lethal Factors",
+      "container": "Genetics",
+      "year": "1918",
+      "url": "https://web.archive.org/web/20080507113340if_/http://www.genetics.org/cgi/reprint/3/5/422"
+    },
+    {
+      "key": "muller1939reversibility",
+      "doi": "10.1111/j.1469-185X.1939.tb00934.x",
+      "title": "Reversibility in Evolution Considered from the Standpoint of Genetics",
+      "container": "Biological Reviews of the Cambridge Philosophical Society",
+      "year": "1939",
+      "url": "https://doi.org/10.1111/j.1469-185X.1939.tb00934.x"
+    },
+    {
+      "key": "talkoriginsbehe",
+      "doi": "",
+      "title": "Irreducible Complexity and Michael Behe on Intelligent Design",
+      "container": "TalkOrigins Archive",
+      "year": "n.d.",
+      "url": "https://talkorigins.org/faqs/behe.html"
+    },
+    {
+      "key": "talkoriginsbehereview",
+      "doi": "",
+      "title": "Darwin's Black Box: Irreducible Complexity or Irreproducible Irreducibility?",
+      "container": "TalkOrigins Archive",
+      "year": "n.d.",
+      "url": "https://talkorigins.org/faqs/behe/review.html"
+    },
+    {
+      "key": "talkoriginsicsilly",
+      "doi": "",
+      "title": "The Mullerian Two-Step, or Why Behe's ‘Irreducible Complexity’ is Silly",
+      "container": "TalkOrigins Archive",
+      "year": "n.d.",
+      "url": "https://talkorigins.org/faqs/comdesc/ICsilly.html"
+    },
+    {
+      "key": "talkdesignflagellum",
+      "doi": "",
+      "title": "Evolution of the bacterial flagellum",
+      "container": "TalkDesign",
+      "year": "n.d.",
+      "url": "https://talkdesign.org/faqs/flagellum.html"
+    },
+    {
+      "key": "lehigh2026evolution",
+      "doi": "",
+      "title": "Department Position on Evolution and Intelligent Design",
+      "container": "Lehigh University Department of Biological Sciences",
+      "year": "n.d.",
+      "url": "https://bio.cas.lehigh.edu/about/department-position-evolution-intelligent-design"
+    },
+    {
+      "key": "kitzmiller2005record",
+      "doi": "",
+      "title": "Congressional Record, House section, H4480-9",
+      "container": "U.S. Congress",
+      "year": "2000",
+      "url": "https://www.congress.gov/congressional-record/volume-146/issue-74/house-section/article/H4480-9"
+    }
   ],
   "talkorigins_mappings": [
     "https://talkorigins.org/faqs/behe.html",
@@ -162,5 +415,13 @@
     "https://talkorigins.org/faqs/comdesc/ICsilly.html",
     "https://talkdesign.org/faqs/flagellum.html"
   ],
-  "provisional_finding": "The article's strongest point is that present-day biochemical machines are highly integrated and that their full historical origins are not always settled. Its central rebuttal to co-option is not successful: a part's ability to perform another function is relevant precisely because evolution acts on currently useful functions and can later make previously dispensable parts indispensable to a new system. The evidence supports an active research program in molecular evolution, not the article's conclusion that unresolved details establish design."
+  "provisional_finding": "The article's strongest point is that present-day biochemical machines are highly integrated and that their full historical origins are not always settled. Its central rebuttal to co-option is not successful: a part's ability to perform another function is relevant precisely because evolution acts on currently useful functions and can later make previously dispensable parts indispensable to a new system. The evidence supports an active research program in molecular evolution, not the article's conclusion that unresolved details establish design.",
+  "citation_enrichment": {
+    "pipeline": "CiteGeist sync-jabref normalization with Crossref DOI abstract supplement",
+    "status": "completed",
+    "bibliography_records": 26,
+    "abstracts_in_bibtex": 6,
+    "missing_abstracts_are_not_invented": true,
+    "research_timestamp": "2026-08-12"
+  }
 }

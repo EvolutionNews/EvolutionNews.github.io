@@ -7,7 +7,10 @@
     "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01",
     "source_type": "television_interview",
     "interview_date": "2026-08-02",
-    "participants": ["Dana Bash", "Robert F. Kennedy Jr."]
+    "participants": [
+      "Dana Bash",
+      "Robert F. Kennedy Jr."
+    ]
   },
   "reported_incident": {
     "site": "HuffPost",
@@ -31,9 +34,21 @@
       "finding": "overstated_and_causally_misassigned",
       "evidence_note": "The comparison depends on date, definition, reporting, and whether excess mortality is used. The interview does not establish that Fauci directed state lockdowns or that one actor explains the national outcome.",
       "source_links": [
-        {"title": "CNN primary interview transcript", "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01", "relation": "records the claim"},
-        {"title": "Our World in Data: COVID-19 deaths", "url": "https://ourworldindata.org/covid-deaths", "relation": "explains cross-country death-rate and reporting limitations"},
-        {"title": "Congressional Research Service: federal authority over state and local stay-at-home orders", "url": "https://www.congress.gov/crs-product/LSB10469", "relation": "maps the legal authority question"}
+        {
+          "title": "CNN primary interview transcript",
+          "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01",
+          "relation": "records the claim"
+        },
+        {
+          "title": "Our World in Data: COVID-19 deaths",
+          "url": "https://ourworldindata.org/covid-deaths",
+          "relation": "explains cross-country death-rate and reporting limitations"
+        },
+        {
+          "title": "Congressional Research Service: federal authority over state and local stay-at-home orders",
+          "url": "https://www.congress.gov/crs-product/LSB10469",
+          "relation": "maps the legal authority question"
+        }
       ]
     },
     {
@@ -43,9 +58,21 @@
       "finding": "unsupported_as_stated",
       "evidence_note": "No evidence is supplied for the RSV or Lyme assertions. An unresolved COVID-origin hypothesis does not establish the origins of unrelated diseases.",
       "source_links": [
-        {"title": "CDC: About RSV", "url": "https://www.cdc.gov/rsv/about/index.html", "relation": "authoritative RSV disease background; does not support a research-origin claim"},
-        {"title": "CDC: Lyme disease", "url": "https://www.cdc.gov/lyme/", "relation": "identifies Lyme disease as Borrelia infection spread by infected ticks; does not support a research-origin claim"},
-        {"title": "CNN primary interview transcript", "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01", "relation": "records the unsupported bundle"}
+        {
+          "title": "CDC: About RSV",
+          "url": "https://www.cdc.gov/rsv/about/index.html",
+          "relation": "authoritative RSV disease background; does not support a research-origin claim"
+        },
+        {
+          "title": "CDC: Lyme disease",
+          "url": "https://www.cdc.gov/lyme/",
+          "relation": "identifies Lyme disease as Borrelia infection spread by infected ticks; does not support a research-origin claim"
+        },
+        {
+          "title": "CNN primary interview transcript",
+          "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01",
+          "relation": "records the unsupported bundle"
+        }
       ]
     },
     {
@@ -55,9 +82,21 @@
       "finding": "unquantified_counterfactual",
       "evidence_note": "A quantified counterfactual requires the treatment, population, comparator, timing, and uncertainty. None is supplied.",
       "source_links": [
-        {"title": "NIH COVID-19 Treatment Guidelines", "url": "https://www.ncbi.nlm.nih.gov/books/NBK570371/", "relation": "shows how treatment evidence and trial endpoints are evaluated"},
-        {"title": "NIH: randomized trial evidence for remdesivir", "url": "https://www.nih.gov/news-events/nih-research-matters/final-report-confirms-remdesivir-benefits-covid-19", "relation": "illustrates a quantified treatment result rather than an unsupported millions-saved counterfactual"},
-        {"title": "CNN primary interview transcript", "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01", "relation": "records the claim"}
+        {
+          "title": "NIH COVID-19 Treatment Guidelines",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK570371/",
+          "relation": "shows how treatment evidence and trial endpoints are evaluated"
+        },
+        {
+          "title": "NIH: randomized trial evidence for remdesivir",
+          "url": "https://www.nih.gov/news-events/nih-research-matters/final-report-confirms-remdesivir-benefits-covid-19",
+          "relation": "illustrates a quantified treatment result rather than an unsupported millions-saved counterfactual"
+        },
+        {
+          "title": "CNN primary interview transcript",
+          "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01",
+          "relation": "records the claim"
+        }
       ]
     },
     {
@@ -67,9 +106,21 @@
       "finding": "overbroad",
       "evidence_note": "Emergency restrictions raised genuine legal and ethical questions, but this generalization combines different governments, agencies, platforms, and policies and does not answer the preparedness question.",
       "source_links": [
-        {"title": "Congressional Research Service: federal authority over state and local stay-at-home orders", "url": "https://www.congress.gov/crs-product/LSB10469", "relation": "separates federal authority from state and local orders"},
-        {"title": "Congressional Research Service: emergency authorities", "url": "https://www.congress.gov/crs-product/R46379", "relation": "surveys the statutory emergency framework"},
-        {"title": "CNN primary interview transcript", "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01", "relation": "records the generalization and the unanswered preparedness question"}
+        {
+          "title": "Congressional Research Service: federal authority over state and local stay-at-home orders",
+          "url": "https://www.congress.gov/crs-product/LSB10469",
+          "relation": "separates federal authority from state and local orders"
+        },
+        {
+          "title": "Congressional Research Service: emergency authorities",
+          "url": "https://www.congress.gov/crs-product/R46379",
+          "relation": "surveys the statutory emergency framework"
+        },
+        {
+          "title": "CNN primary interview transcript",
+          "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01",
+          "relation": "records the generalization and the unanswered preparedness question"
+        }
       ]
     },
     {
@@ -79,9 +130,21 @@
       "finding": "misleading",
       "evidence_note": "Effectiveness varies by age, variant, product, time, and outcome, but CDC surveillance and evidence reviews document protection against severe disease, hospitalization, and death.",
       "source_links": [
-        {"title": "CDC: benefits of getting vaccinated", "url": "https://www.cdc.gov/covid/vaccines/benefits.html", "relation": "summarizes protection against critical illness, hospitalization, and death"},
-        {"title": "CDC: COVID-19 vaccine effectiveness", "url": "https://www.cdc.gov/covid/php/surveillance/vaccine-effectiveness.html", "relation": "describes real-world effectiveness methods and outcomes"},
-        {"title": "CDC MMWR: vaccine effectiveness against ventilation and death", "url": "https://www.cdc.gov/mmwr/volumes/71/wr/mm7112e1.htm", "relation": "provides a population study of severe outcomes"}
+        {
+          "title": "CDC: benefits of getting vaccinated",
+          "url": "https://www.cdc.gov/covid/vaccines/benefits.html",
+          "relation": "summarizes protection against critical illness, hospitalization, and death"
+        },
+        {
+          "title": "CDC: COVID-19 vaccine effectiveness",
+          "url": "https://www.cdc.gov/covid/php/surveillance/vaccine-effectiveness.html",
+          "relation": "describes real-world effectiveness methods and outcomes"
+        },
+        {
+          "title": "CDC MMWR: vaccine effectiveness against ventilation and death",
+          "url": "https://www.cdc.gov/mmwr/volumes/71/wr/mm7112e1.htm",
+          "relation": "provides a population study of severe outcomes"
+        }
       ]
     },
     {
@@ -91,9 +154,21 @@
       "finding": "partly_supported_but_incomplete",
       "evidence_note": "Pandemic disruption can create immunity gaps, but outbreaks also reflect current undervaccination, importation, local clustering, and uneven coverage. Unique success is not demonstrated in the interview.",
       "source_links": [
-        {"title": "WHO: measles cases and outbreaks", "url": "https://www.who.int/news/item/28-11-2025-measles-deaths-down-88--since-2000--but-cases-surge", "relation": "documents coverage gaps and outbreak context"},
-        {"title": "CDC: measles cases and outbreaks", "url": "https://www.cdc.gov/measles/data-research/index.html", "relation": "provides U.S. case and outbreak data"},
-        {"title": "CNN primary interview transcript", "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01", "relation": "records the attribution and success claim"}
+        {
+          "title": "WHO: measles cases and outbreaks",
+          "url": "https://www.who.int/news/item/28-11-2025-measles-deaths-down-88--since-2000--but-cases-surge",
+          "relation": "documents coverage gaps and outbreak context"
+        },
+        {
+          "title": "CDC: measles cases and outbreaks",
+          "url": "https://www.cdc.gov/measles/data-research/index.html",
+          "relation": "provides U.S. case and outbreak data"
+        },
+        {
+          "title": "CNN primary interview transcript",
+          "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01",
+          "relation": "records the attribution and success claim"
+        }
       ]
     },
     {
@@ -103,7 +178,11 @@
       "finding": "supported",
       "evidence_note": "CDC reports approximately 97 percent effectiveness against measles after two doses.",
       "source_links": [
-        {"title": "CDC: measles vaccination", "url": "https://www.cdc.gov/measles/vaccines/index.html", "relation": "supports the effectiveness and vaccination recommendation"}
+        {
+          "title": "CDC: measles vaccination",
+          "url": "https://www.cdc.gov/measles/vaccines/index.html",
+          "relation": "supports the effectiveness and vaccination recommendation"
+        }
       ]
     },
     {
@@ -113,9 +192,21 @@
       "finding": "misleading_presentation_of_evidence",
       "evidence_note": "A study count does not establish causation; designs, exposures, endpoints, confounding, effect sizes, and systematic-review conclusions must be examined.",
       "source_links": [
-        {"title": "PubMed: umbrella review of maternal acetaminophen and autism evidence", "url": "https://pubmed.ncbi.nlm.nih.gov/41207796/", "relation": "reviews systematic reviews and evaluates the evidence rather than counting studies"},
-        {"title": "PubMed: systematic review and meta-analysis of prenatal paracetamol exposure", "url": "https://pubmed.ncbi.nlm.nih.gov/42500177/", "relation": "provides a current evidence synthesis for the association claim"},
-        {"title": "CNN primary interview transcript", "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01", "relation": "records the unsupported study-count claim"}
+        {
+          "title": "PubMed: umbrella review of maternal acetaminophen and autism evidence",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41207796/",
+          "relation": "reviews systematic reviews and evaluates the evidence rather than counting studies"
+        },
+        {
+          "title": "PubMed: systematic review and meta-analysis of prenatal paracetamol exposure",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42500177/",
+          "relation": "provides a current evidence synthesis for the association claim"
+        },
+        {
+          "title": "CNN primary interview transcript",
+          "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01",
+          "relation": "records the unsupported study-count claim"
+        }
       ]
     },
     {
@@ -125,9 +216,21 @@
       "finding": "false_or_seriously_misleading",
       "evidence_note": "The National Academies/IOM record and later large studies do not support a vaccine-autism causal link.",
       "source_links": [
-        {"title": "CDC: MMR vaccine safety", "url": "https://www.cdc.gov/vaccine-safety/vaccines/mmr.html", "relation": "summarizes the IOM conclusion and later evidence"},
-        {"title": "WHO: vaccines and autism evidence review", "url": "https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism", "relation": "reviews 31 primary studies and finds no causal link"},
-        {"title": "CNN primary interview transcript", "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01", "relation": "records how the authority is invoked"}
+        {
+          "title": "CDC: MMR vaccine safety",
+          "url": "https://www.cdc.gov/vaccine-safety/vaccines/mmr.html",
+          "relation": "summarizes the IOM conclusion and later evidence"
+        },
+        {
+          "title": "WHO: vaccines and autism evidence review",
+          "url": "https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism",
+          "relation": "reviews 31 primary studies and finds no causal link"
+        },
+        {
+          "title": "CNN primary interview transcript",
+          "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01",
+          "relation": "records how the authority is invoked"
+        }
       ]
     },
     {
@@ -137,9 +240,21 @@
       "finding": "category_error",
       "evidence_note": "Genetic susceptibility need not spread as an infectious epidemic. Measured prevalence can change through diagnosis, ascertainment, services, and population composition.",
       "source_links": [
-        {"title": "NICHD: what causes autism", "url": "https://www.nichd.nih.gov/health/topics/autism/conditioninfo/causes", "relation": "describes autism as multifactorial, including genetic and environmental influences"},
-        {"title": "NIH MedlinePlus Genetics: autism spectrum disorder", "url": "https://medlineplus.gov/genetics/condition/autism-spectrum-disorder/", "relation": "explains combined genetic and environmental risk"},
-        {"title": "CNN primary interview transcript", "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01", "relation": "records the category error"}
+        {
+          "title": "NICHD: what causes autism",
+          "url": "https://www.nichd.nih.gov/health/topics/autism/conditioninfo/causes",
+          "relation": "describes autism as multifactorial, including genetic and environmental influences"
+        },
+        {
+          "title": "NIH MedlinePlus Genetics: autism spectrum disorder",
+          "url": "https://medlineplus.gov/genetics/condition/autism-spectrum-disorder/",
+          "relation": "explains combined genetic and environmental risk"
+        },
+        {
+          "title": "CNN primary interview transcript",
+          "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01",
+          "relation": "records the category error"
+        }
       ]
     },
     {
@@ -149,9 +264,21 @@
       "finding": "unsupported_bundle_and_ad_hominem",
       "evidence_note": "Claims about masks, distancing, immunity, vaccine transmission, and virus origin are separate propositions requiring separate evidence.",
       "source_links": [
-        {"title": "CDC: benefits of getting vaccinated", "url": "https://www.cdc.gov/covid/vaccines/benefits.html", "relation": "provides a proposition-specific evidence base for vaccine effects"},
-        {"title": "CDC: COVID-19 vaccine effectiveness", "url": "https://www.cdc.gov/covid/php/surveillance/vaccine-effectiveness.html", "relation": "shows why separate outcomes and time periods must be specified"},
-        {"title": "CNN primary interview transcript", "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01", "relation": "records the bundled accusations"}
+        {
+          "title": "CDC: benefits of getting vaccinated",
+          "url": "https://www.cdc.gov/covid/vaccines/benefits.html",
+          "relation": "provides a proposition-specific evidence base for vaccine effects"
+        },
+        {
+          "title": "CDC: COVID-19 vaccine effectiveness",
+          "url": "https://www.cdc.gov/covid/php/surveillance/vaccine-effectiveness.html",
+          "relation": "shows why separate outcomes and time periods must be specified"
+        },
+        {
+          "title": "CNN primary interview transcript",
+          "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01",
+          "relation": "records the bundled accusations"
+        }
       ]
     },
     {
@@ -161,8 +288,16 @@
       "finding": "gish_gallop_pattern",
       "evidence_note": "The accumulation of claims shifts the burden of proof to the interviewer and makes real-time verification impossible. Unsupported accumulation is not corroboration.",
       "source_links": [
-        {"title": "CNN primary interview transcript", "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01", "relation": "provides the time-coded sequence for the discourse analysis"},
-        {"title": "HuffPost incident report", "url": "https://www.huffpost.com/entry/rfk-jr-gish-gallop-cnn-interview_l_6a7099d0e4b07f032143c9e4", "relation": "reports the incident framing"}
+        {
+          "title": "CNN primary interview transcript",
+          "url": "https://transcripts.cnn.com/show/sotu/date/2026-08-02/segment/01",
+          "relation": "provides the time-coded sequence for the discourse analysis"
+        },
+        {
+          "title": "HuffPost incident report",
+          "url": "https://www.huffpost.com/entry/rfk-jr-gish-gallop-cnn-interview_l_6a7099d0e4b07f032143c9e4",
+          "relation": "reports the incident framing"
+        }
       ]
     }
   ],
@@ -287,5 +422,13 @@
       "url": "https://www.huffpost.com/entry/rfk-jr-gish-gallop-cnn-interview_l_6a7099d0e4b07f032143c9e4",
       "role": "reported_incident_context"
     }
-  ]
+  ],
+  "citation_enrichment": {
+    "pipeline": "CiteGeist sync-jabref normalization with Crossref DOI abstract supplement",
+    "status": "completed",
+    "bibliography_records": 20,
+    "abstracts_in_bibtex": 0,
+    "missing_abstracts_are_not_invented": true,
+    "research_timestamp": "2026-08-12"
+  }
 }

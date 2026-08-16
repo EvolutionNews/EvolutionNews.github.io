@@ -157,11 +157,14 @@
       "id": "dbb30-012",
       "type": "evidence boundary",
       "summary": "The article's historical and cultural evidence is presented as support for the scientific conclusion that Darwinian evolution has failed.",
-      "finding": "Reception history and an updated ancestral-complexity model are relevant context, but neither is a comprehensive test of evolutionary explanations.",
+      "finding": "Reception history and an updated ancestral-complexity model are relevant context, but neither is a comprehensive test of evolutionary explanations. The Krebs (citric-acid/TCA) cycle is an independent biochemical counterexample to a blanket claim that evolutionary accounts for biochemical systems do not exist: published work models chemically feasible, opportunistic assembly and experimentally supported reverse-cycle and precursor networks. These studies do not directly reconstruct the bacterial flagellum or settle every ancestral order, but they show that pathway evolution is a testable historical and mechanistic problem.",
       "source_links": [
         "https://scienceandculture.com/2026/08/mighty-darwin-has-struck-out-thirty-years-of-darwins-black-box/",
         "https://doi.org/10.1038/nrmicro1493",
-        "https://doi.org/10.1016/j.jmb.2004.06.058"
+        "https://doi.org/10.1016/j.jmb.2004.06.058",
+        "https://pubmed.ncbi.nlm.nih.gov/8703096/",
+        "https://doi.org/10.1038/s41559-017-0311-7",
+        "https://doi.org/10.1038/s41586-019-1151-1"
       ]
     },
     {
@@ -250,7 +253,10 @@
     "doi101101sqb200974012",
     "doi103390rel14070850",
     "namba1997molecular",
-    "beck2014mutational"
+    "beck2014mutational",
+    "melendez1996krebs",
+    "muchowska2017rtca",
+    "muchowska2019precursors"
   ],
   "review_sources": [
     "TalkOrigins Behe FAQ",
@@ -269,7 +275,7 @@
   "citation_enrichment": {
     "pipeline": "CiteGeist sync-jabref normalization with Crossref DOI abstract supplement",
     "status": "completed",
-    "bibliography_records": 15,
+    "bibliography_records": 18,
     "abstracts_in_bibtex": 0,
     "missing_abstracts_are_not_invented": true,
     "research_timestamp": "2026-08-12"

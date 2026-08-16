@@ -14,9 +14,9 @@
   "counts": {
     "claims": 14,
     "primary_source_records": 1,
-    "research_sources": 25,
-    "bibliography_records": 26,
-    "doi_linked_records": 13,
+    "research_sources": 28,
+    "bibliography_records": 29,
+    "doi_linked_records": 16,
     "talkorigins_talkdesign_records": 4
   },
   "synopsis": "William Dembski presents Michael Behe's Darwin's Black Box as an enduring and ascendant challenge to molecular evolution. The docket finds that the article accurately identifies a real historical debate about biochemical complexity, but overstates the evidentiary meaning of protein-sequence rarity, treats unresolved historical reconstruction as a defeat for evolution, and mischaracterizes the role of co-option by insisting that an alternate or ancestral function is irrelevant unless it is the system's original function. It also identifies an asymmetry in the article's standards: unexplained evolutionary 'poof' is treated as disqualifying, while unexplained design insertion is not specified as a comparable mechanism.",
@@ -138,9 +138,12 @@
       "id": "dbb30-011",
       "type": "theory_claim",
       "summary": "Irreducible complexity remains a serious challenge because there are no detailed Darwinian accounts of fundamental biochemical systems.",
-      "finding": "Too broad. Some systems lack a settled, fully detailed historical reconstruction, but the claim conflates incomplete knowledge with failure of the evolutionary framework and ignores published models, comparative evidence, and experimentally testable mechanisms.",
+      "finding": "Too broad and incomplete as a review finding. Some systems lack a settled, fully detailed historical reconstruction, but the claim conflates incomplete knowledge with failure of the evolutionary framework. The Krebs (citric-acid/TCA) cycle is a direct biochemical counterexample: published chemical-design analysis models its opportunistic assembly from reactions with earlier metabolic uses, while later experiments identify chemically feasible reverse-cycle and precursor networks. Those studies do not settle every ancestral order or date, but they make pathway evolution a testable historical and mechanistic problem.",
       "sources": [
         "orr1996darwinid",
+        "melendez1996krebs",
+        "muchowska2017rtca",
+        "muchowska2019precursors",
         "liu2007flagellum",
         "abby2012t3ss",
         "trotter2014ic",
@@ -194,6 +197,33 @@
     "The docket also distinguishes an asserted 'poof' mechanism from evolutionary mechanisms: biologists treat unexplained sudden appearance as an evidentiary gap, while the article's critique often treats the absence of a complete reconstruction as evidence against evolution. This asymmetry is reported as an argument-structure finding, not as a universal claim about all opponents of evolutionary biology."
   ],
   "verified_citations": [
+    {
+      "key": "melendez1996krebs",
+      "doi": "10.1007/BF02338838",
+      "title": "The puzzle of the Krebs citric acid cycle: assembling the pieces of chemically feasible reactions, and opportunism in the design of metabolic pathways during evolution",
+      "container": "Journal of Molecular Evolution",
+      "year": "1996",
+      "url": "https://doi.org/10.1007/BF02338838",
+      "open_access": "https://pubmed.ncbi.nlm.nih.gov/8703096/"
+    },
+    {
+      "key": "muchowska2017rtca",
+      "doi": "10.1038/s41559-017-0311-7",
+      "title": "Metals promote sequences of the reverse Krebs cycle",
+      "container": "Nature Ecology & Evolution",
+      "year": "2017",
+      "url": "https://doi.org/10.1038/s41559-017-0311-7",
+      "open_access": "https://www.nature.com/articles/s41559-017-0311-7"
+    },
+    {
+      "key": "muchowska2019precursors",
+      "doi": "10.1038/s41586-019-1151-1",
+      "title": "Synthesis and breakdown of universal metabolic precursors promoted by iron",
+      "container": "Nature",
+      "year": "2019",
+      "url": "https://doi.org/10.1038/s41586-019-1151-1",
+      "open_access": "https://www.nature.com/articles/s41586-019-1151-1"
+    },
     {
       "key": "dembski2026blackbox30",
       "doi": "",

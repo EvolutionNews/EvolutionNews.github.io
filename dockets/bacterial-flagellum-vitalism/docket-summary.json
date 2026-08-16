@@ -12,7 +12,7 @@
   "review_state": "public_summary_needs_editor_review",
   "publication_boundary": "This public artifact includes claim summaries, citation metadata, source links, and TOA mappings. It does not publish the full third-party source text, full English working translation, private source captures, local Library paths, or review caches.",
   "counts": {
-    "claims": 10,
+    "claims": 11,
     "curated_primary_mappings": 38,
     "crossref_exact_matches": 6,
     "doi_links_checked_for_open_access": 7,
@@ -135,9 +135,46 @@
       "toa_articles": [
         "https://talkorigins.org/faqs/abioprob/originoflife.html"
       ]
+    },
+    {
+      "id": "tm-flagellum-011",
+      "type": "cross_system_review_context",
+      "summary": "The Krebs (citric-acid/TCA) cycle supplies an independent biochemical example relevant to the docket's blanket irreducible-complexity framing: published work models its opportunistic assembly from pre-existing reactions, while later experiments identify chemically feasible reverse-cycle and precursor networks.",
+      "finding": "This does not resolve the flagellum's own history and should not be presented as direct flagellar evidence. It does, however, make the general claim that no detailed evolutionary accounts exist for biochemical systems untenable. Exact ancestral order and timing remain open questions.",
+      "toa_indexcc": [
+        "https://talkorigins.org/indexcc/CB/CB200.html"
+      ],
+      "toa_articles": [
+        "https://talkorigins.org/faqs/behe/review.html",
+        "https://talkorigins.org/faqs/behe/publish.html"
+      ]
     }
   ],
   "verified_citations": [
+    {
+      "doi": "10.1007/BF02338838",
+      "title": "The puzzle of the Krebs citric acid cycle: assembling the pieces of chemically feasible reactions, and opportunism in the design of metabolic pathways during evolution",
+      "journal": "Journal of Molecular Evolution",
+      "year": "1996",
+      "url": "https://doi.org/10.1007/BF02338838",
+      "open_access": {"status": "publisher_record", "url": "https://pubmed.ncbi.nlm.nih.gov/8703096/"}
+    },
+    {
+      "doi": "10.1038/s41559-017-0311-7",
+      "title": "Metals promote sequences of the reverse Krebs cycle",
+      "journal": "Nature Ecology & Evolution",
+      "year": "2017",
+      "url": "https://doi.org/10.1038/s41559-017-0311-7",
+      "open_access": {"status": "publisher_record", "url": "https://www.nature.com/articles/s41559-017-0311-7"}
+    },
+    {
+      "doi": "10.1038/s41586-019-1151-1",
+      "title": "Synthesis and breakdown of universal metabolic precursors promoted by iron",
+      "journal": "Nature",
+      "year": "2019",
+      "url": "https://doi.org/10.1038/s41586-019-1151-1",
+      "open_access": {"status": "publisher_record", "url": "https://www.nature.com/articles/s41586-019-1151-1"}
+    },
     {
       "doi": "10.1073/pnas.2516278123",
       "title": "The dynamic response of the bacterial flagellar motor to its direct intracellular input signal",

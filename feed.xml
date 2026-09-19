@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/feed.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EvolutionNews.net — publications and updates</title>
+    <link>https://evolutionnews.net/</link>
+    <description>New monitor publications and evidence dockets, substantive follow-ups, and corrections. Initial entries cover the federal monitor; older dockets are not backfilled.</description>
+    <language>en-us</language>
+    <atom:link href="https://evolutionnews.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>September 19 update: vaccine consultation deadline and professional guidance</title>
+      <link>https://evolutionnews.net/briefings/federal/2026-09-06/#vaccine-update-2026-09-19</link>
+      <guid isPermaLink="true">https://evolutionnews.net/briefings/federal/2026-09-06/#vaccine-update-2026-09-19</guid>
+      <category>Federal monitor</category>
+      <category>Update</category>
+      <description>Follow-up to the September 6 report: the notice checked September 19 still specifies September 20 for assured consideration. The update adds pediatric participation guidance and expert commentary, distinguishes these from formal society submissions, and records limitations of the deadline check. Read the dated update for sources and participation details.</description>
+    </item>
+    <item>
+      <title>September 6 federal monitor: vaccine review, nuclear priorities and water protection</title>
+      <link>https://evolutionnews.net/briefings/federal/2026-09-06/</link>
+      <guid isPermaLink="true">https://evolutionnews.net/briefings/federal/2026-09-06/</guid>
+      <category>Federal monitor</category>
+      <category>Publication</category>
+      <description>The original September 6 briefing reviews vaccine evidence standards, advanced nuclear delivery alongside renewable incentives, and proposed restrictions on federal water protection. Includes source references and a downloadable bibliography. Later developments are identified in dated updates.</description>
+    </item>
+  </channel>
+</rss>
